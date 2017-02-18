@@ -21,6 +21,7 @@ public class BorderLayoutDemo {
 		f.add( new JButton("Center") );
 
 		f.setSize( 400, 150 );
+		f.setTitle("BorderLayoutDemo");
 		f.setVisible( true );
 		
 	}

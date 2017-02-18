@@ -24,6 +24,7 @@ public class GridLayoutDemo {
 		f.add( new JPasswordField() );
 
 		f.pack();
+		f.setTitle("GridLayoutDemo");
 		f.setVisible( true );
 		
 	}
